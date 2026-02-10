@@ -1,0 +1,1 @@
+globaly npm install -g typescript install and don't install this command every project npm install typescript --save-dev

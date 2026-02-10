@@ -1,0 +1,1 @@
+normal install npm install typescript --save-dev every project 
