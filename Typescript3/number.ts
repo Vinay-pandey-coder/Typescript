@@ -52,6 +52,3 @@ console.log(item + +item2Converted);
 
 var numArray: number[] = [10, 20, 30];
 console.log(numArray);
-
-var user : [number ,string] = [1, "Anil"];
-console.log(user);
