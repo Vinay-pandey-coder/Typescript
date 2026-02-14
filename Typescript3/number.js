@@ -42,5 +42,3 @@ console.log(item + +item2Converted);
 // data="anil"
 var numArray = [10, 20, 30];
 console.log(numArray);
-var user = [1, "Anil"];
-console.log(user);
